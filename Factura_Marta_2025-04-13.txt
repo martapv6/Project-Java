@@ -1,0 +1,10 @@
+=== FACTURĂ FESTIVAL ===
+📅 Data emiterii: 2025-04-13
+
+👤 Client: Marta
+📧 Email: @ana.gmail.com
+🧾 Tip bilet: normal
+💸 Preț bilet: 12333 lei
+🎫 Cod unic: BIL203514455
+
+✅ Mulțumim pentru achiziție și ne vedem la festival!

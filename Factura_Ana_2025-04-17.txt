@@ -1,0 +1,10 @@
+=== FACTURĂ FESTIVAL ===
+📅 Data emiterii: 2025-04-17
+
+👤 Client: Ana
+📧 Email: @infoana.ro
+🧾 Tip bilet: normal
+💸 Preț bilet: 45 lei
+🎫 Cod unic: BIL23301
+
+✅ Mulțumim pentru achiziție și ne vedem la festival!

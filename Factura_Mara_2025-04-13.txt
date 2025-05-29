@@ -1,0 +1,10 @@
+=== FACTURĂ FESTIVAL ===
+📅 Data emiterii: 2025-04-13
+
+👤 Client: Mara
+📧 Email: '''
+🧾 Tip bilet: normal
+💸 Preț bilet: 450 lei
+🎫 Cod unic: BIL38727
+
+✅ Mulțumim pentru achiziție și ne vedem la festival!

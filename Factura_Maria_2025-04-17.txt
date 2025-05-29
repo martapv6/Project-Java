@@ -1,0 +1,10 @@
+=== FACTURĂ FESTIVAL ===
+📅 Data emiterii: 2025-04-17
+
+👤 Client: Maria
+📧 Email: maria@info.ro
+🧾 Tip bilet: vip
+💸 Preț bilet: 300 lei
+🎫 Cod unic: BIL37594163
+
+✅ Mulțumim pentru achiziție și ne vedem la festival!
